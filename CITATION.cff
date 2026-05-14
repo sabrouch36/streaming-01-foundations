@@ -16,13 +16,13 @@ version: "0.5.0"
 date-released: "2026-05-09"
 
 authors:
-  - family-names: Case
-    given-names: Denise M.
+  - family-names: Hamdaoui
+    given-names: Sabri.
     orcid: "https://orcid.org/0000-0001-6165-7389"
     affiliation: "Northwest Missouri State University, School of Computer Science and Information Systems, Maryville, MO, USA"
 
-repository-code: "https://github.com/denisecase/streaming-01-foundations"
-url: "https://github.com/denisecase/streaming-01-foundations"
+repository-code: "https://github.com/sabrouch36/streaming-01-foundations"
+url: "https://github.com/sabrouch36/streaming-01-foundations"
 license: MIT
 
 abstract: >
