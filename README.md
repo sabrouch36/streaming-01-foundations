@@ -432,3 +432,15 @@ You can split terminals shown below, or just click between them as you like.
 | C01 | Consumer executed successfully!
 | C01 | ========================
 ```
+
+## My Modification
+
+I modified the consumer process_message() function to calculate a new derived field called total_sale.
+
+The new field multiplies:
+
+- unit_price
+- quantity
+
+This helps simulate a more realistic streaming analytics workflow by adding a calculated
+business metric to each consumed message.
